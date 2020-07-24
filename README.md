@@ -1,0 +1,1 @@
+Substrings project from The Odin Project. Written in Ruby.
